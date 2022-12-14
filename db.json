@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "item": "grapes"
+    },
+    {
+      "id": 3,
+      "item": "rice"
+    },
+    {
+      "item": "wajdi",
+      "id": 4
+    },
+    {
+      "item": "hello world",
+      "id": 5
+    }
+  ]
+}
